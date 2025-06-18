@@ -11,7 +11,7 @@ GROW A GARDEN SCRIPT 🌱
 
 
 2. Copy and paste this code:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GagHubScripts/NoLag/refs/heads/main/petspawner"))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/GagHubScripts/NoLagHub/refs/heads/main/seedandpetspawnerhub"))()"))()
 
 
 3. Join a public server. privates are newer and updated servers. therefore it won't work
